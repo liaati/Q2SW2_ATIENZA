@@ -1,0 +1,44 @@
+.h1{
+	text-align: center;
+	color: #AF699E;
+	font-family: cursive;
+}
+.brit{
+	background-color: #FD746A;
+	color: white;
+	width: 30%;
+	height: 500px;
+	margin: 10px;
+	text-align: center;
+	font-family: cursive;
+	border-color: #E86E96;
+	border-style: inset;
+	border-width: 3.5px;
+	float: left;	
+}
+.wegie{
+	background-color: #9F7BC1;
+	color: white;
+	width: 30%;
+	height: 500px;
+	margin: 10px;
+	text-align: center;
+	font-family: cursive;
+	border-color: #AF699E;
+	border-style: inset;
+	border-width: 3.5px;
+	float: left;
+}	
+.birman{
+	background-color: #7876CE;
+	color: white;
+	width: 30%;
+	height: 500px;
+	margin: 10px;
+	text-align: center;
+	font-family: cursive;
+	border-color: #005D9F;
+	border-style: inset;
+	border-width: 3.5px;
+	float: left;
+}	
